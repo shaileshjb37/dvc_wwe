@@ -1,0 +1,11 @@
+{
+    "wrestler_1": "roman reigns",
+    "wrestler_2": "seth rollins",
+    "wrestler_1_win_rate": 75.0,
+    "wrestler_2_win_rate": 65.0,
+    "wrestler_1_recent_form": 4,
+    "wrestler_2_recent_form": 3,
+    "storyline_rivalry": 1,
+    "title_match": 1,
+    "event_date": "2024-12-15"
+}

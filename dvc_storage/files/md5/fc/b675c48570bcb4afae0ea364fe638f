@@ -1,0 +1,501 @@
+match_id,event_name,event_date,match_type,wrestler_1,wrestler_2,wrestler_1_win_rate,wrestler_2_win_rate,wrestler_1_recent_form,wrestler_2_recent_form,storyline_rivalry,title_match,winner
+1,WWE SmackDown,4/26/2025,Tag Team,Drew McIntyre,Gunther,63.7,74.7,2,3,0,No,Drew McIntyre
+2,WWE SummerSlam,5/18/2024,Singles,Charlotte Flair,Bianca Belair,45.8,66,5,3,0,Yes,Charlotte Flair
+3,WWE WrestleMania,11/19/2022,Steel Cage,Rhea Ripley,Becky Lynch,62.9,58.4,1,4,0,No,Rhea Ripley
+4,WWE SmackDown,10/16/2023,Singles,Gunther,Roman Reigns,82.1,59.8,2,1,0,No,Gunther
+5,WWE Royal Rumble,10/30/2022,Fatal 4-Way,Seth Rollins,Bianca Belair,64.4,68.9,1,0,0,Yes,Bianca Belair
+6,WWE WrestleMania,12/19/2024,Steel Cage,Gunther,Seth Rollins,40.2,68,0,4,1,Yes,Seth Rollins
+7,WWE SummerSlam,11/25/2025,Steel Cage,Becky Lynch,Bianca Belair,59.6,80.3,4,4,0,Yes,Becky Lynch
+8,WWE WrestleMania,11/4/2024,Singles,Becky Lynch,LA Knight,63.7,53.6,3,4,0,No,LA Knight
+9,WWE WrestleMania,1/12/2025,Tag Team,Drew McIntyre,Becky Lynch,42.6,50.6,0,4,0,Yes,Drew McIntyre
+10,WWE Raw,11/19/2024,Triple Threat,Gunther,Bianca Belair,75.1,53.1,5,5,0,Yes,Bianca Belair
+11,WWE SmackDown,5/10/2022,Fatal 4-Way,Cody Rhodes,Drew McIntyre,61.7,53.6,4,3,1,Yes,Cody Rhodes
+12,WWE SummerSlam,7/14/2025,Triple Threat,Cody Rhodes,Rhea Ripley,73.5,70.7,4,5,0,No,Rhea Ripley
+13,WWE WrestleMania,4/11/2022,Fatal 4-Way,Becky Lynch,Gunther,57.4,45.4,3,5,0,No,Becky Lynch
+14,WWE Raw,10/19/2022,Fatal 4-Way,Seth Rollins,LA Knight,87.4,59.3,4,3,1,No,Seth Rollins
+15,WWE SummerSlam,12/20/2025,Steel Cage,Charlotte Flair,Gunther,51.8,49.6,4,3,0,Yes,Charlotte Flair
+16,WWE SmackDown,9/26/2025,Singles,Rhea Ripley,Bianca Belair,79.7,71.5,5,2,1,Yes,Bianca Belair
+17,WWE WrestleMania,4/17/2023,Triple Threat,Charlotte Flair,Gunther,54.1,87.7,4,5,1,Yes,Gunther
+18,WWE WrestleMania,9/13/2022,Steel Cage,LA Knight,Drew McIntyre,71.1,42.8,1,2,1,Yes,LA Knight
+19,WWE SummerSlam,8/9/2023,Steel Cage,Charlotte Flair,Gunther,52.9,78.4,3,0,0,No,Gunther
+20,WWE Royal Rumble,10/24/2025,Fatal 4-Way,Drew McIntyre,Rhea Ripley,50.6,78.1,0,3,0,No,Drew McIntyre
+21,WWE SmackDown,11/4/2025,Steel Cage,Rhea Ripley,Roman Reigns,58.4,76.1,3,2,0,No,Roman Reigns
+22,WWE Royal Rumble,2/15/2024,Steel Cage,Seth Rollins,Becky Lynch,63.3,51.2,2,4,0,No,Becky Lynch
+23,WWE Royal Rumble,5/16/2025,Tag Team,Seth Rollins,Rhea Ripley,66.2,56.6,0,5,1,Yes,Rhea Ripley
+24,WWE Raw,6/8/2022,Singles,Rhea Ripley,Roman Reigns,54.7,44.7,3,1,1,No,Rhea Ripley
+25,WWE WrestleMania,9/9/2023,Singles,Seth Rollins,Rhea Ripley,59.5,69.6,4,2,0,No,Rhea Ripley
+26,WWE Raw,12/19/2024,Singles,Roman Reigns,Drew McIntyre,67.9,62.2,3,5,1,Yes,Drew McIntyre
+27,WWE SummerSlam,10/7/2025,Steel Cage,Drew McIntyre,Gunther,87.9,45.3,0,5,1,No,Drew McIntyre
+28,WWE Royal Rumble,10/1/2023,Triple Threat,Becky Lynch,Bianca Belair,80.4,51.8,0,4,0,Yes,Bianca Belair
+29,WWE SummerSlam,9/19/2025,Singles,Bianca Belair,LA Knight,79.7,66.9,1,3,0,Yes,LA Knight
+30,WWE SummerSlam,2/6/2024,Tag Team,LA Knight,Charlotte Flair,40.6,61.9,3,0,1,Yes,Charlotte Flair
+31,WWE SummerSlam,7/25/2023,Steel Cage,Becky Lynch,LA Knight,55.6,88.4,3,2,0,No,Becky Lynch
+32,WWE WrestleMania,8/30/2022,Singles,Drew McIntyre,Charlotte Flair,68.3,84.4,3,0,1,Yes,Charlotte Flair
+33,WWE SmackDown,10/14/2022,Steel Cage,Cody Rhodes,Seth Rollins,60.6,83.9,2,3,1,Yes,Cody Rhodes
+34,WWE Raw,5/25/2023,Tag Team,Gunther,Roman Reigns,55.2,76.3,1,2,0,Yes,Roman Reigns
+35,WWE Raw,7/31/2023,Triple Threat,Cody Rhodes,Charlotte Flair,89.7,51.6,1,4,1,Yes,Charlotte Flair
+36,WWE Royal Rumble,6/7/2025,Tag Team,Bianca Belair,Charlotte Flair,51.9,59,1,3,1,No,Charlotte Flair
+37,WWE Raw,7/23/2024,Triple Threat,Cody Rhodes,Charlotte Flair,40.5,61.1,4,2,0,Yes,Charlotte Flair
+38,WWE Raw,4/12/2024,Fatal 4-Way,Cody Rhodes,Charlotte Flair,77.1,54.5,0,4,1,Yes,Cody Rhodes
+39,WWE WrestleMania,8/24/2025,Steel Cage,Charlotte Flair,Seth Rollins,85.4,43.1,4,1,1,No,Charlotte Flair
+40,WWE Royal Rumble,9/27/2024,Fatal 4-Way,Gunther,Becky Lynch,81.1,70.1,1,1,1,No,Gunther
+41,WWE WrestleMania,9/25/2025,Fatal 4-Way,LA Knight,Bianca Belair,50.4,60.4,0,3,0,No,LA Knight
+42,WWE SmackDown,10/4/2025,Fatal 4-Way,Bianca Belair,Becky Lynch,43.7,45.5,1,4,0,Yes,Bianca Belair
+43,WWE SummerSlam,3/24/2024,Tag Team,Gunther,Cody Rhodes,80.6,45.2,4,0,1,No,Gunther
+44,WWE Royal Rumble,10/5/2024,Singles,Bianca Belair,Charlotte Flair,40.3,52.8,0,4,0,Yes,Charlotte Flair
+45,WWE WrestleMania,5/2/2024,Steel Cage,Seth Rollins,Bianca Belair,69.3,59.9,0,2,0,No,Seth Rollins
+46,WWE SmackDown,6/20/2024,Triple Threat,Roman Reigns,Rhea Ripley,76.4,45.2,0,3,0,No,Rhea Ripley
+47,WWE Royal Rumble,1/12/2023,Singles,Bianca Belair,Drew McIntyre,76.1,79.6,2,0,0,Yes,Drew McIntyre
+48,WWE Royal Rumble,11/2/2025,Fatal 4-Way,Roman Reigns,Rhea Ripley,59.6,75.3,1,3,0,Yes,Rhea Ripley
+49,WWE Raw,12/8/2023,Fatal 4-Way,Rhea Ripley,Gunther,65,58.6,1,3,1,Yes,Rhea Ripley
+50,WWE Royal Rumble,9/29/2022,Fatal 4-Way,Roman Reigns,Seth Rollins,40.6,61.2,2,2,1,No,Seth Rollins
+51,WWE WrestleMania,10/3/2023,Triple Threat,Seth Rollins,Cody Rhodes,56.9,73.9,1,0,1,Yes,Seth Rollins
+52,WWE SummerSlam,3/31/2025,Singles,Cody Rhodes,LA Knight,48.6,77.6,2,1,1,Yes,LA Knight
+53,WWE WrestleMania,5/30/2023,Singles,Cody Rhodes,Seth Rollins,55.1,66,3,2,0,No,Cody Rhodes
+54,WWE Royal Rumble,3/13/2022,Fatal 4-Way,Rhea Ripley,Roman Reigns,48.8,66.9,5,4,1,No,Rhea Ripley
+55,WWE SmackDown,7/1/2023,Fatal 4-Way,Gunther,Charlotte Flair,67.1,89.1,5,4,0,Yes,Gunther
+56,WWE SmackDown,3/19/2024,Triple Threat,Charlotte Flair,Seth Rollins,61.9,40.1,3,3,0,Yes,Seth Rollins
+57,WWE SmackDown,11/16/2024,Triple Threat,Bianca Belair,LA Knight,88.3,87.8,0,0,1,Yes,Bianca Belair
+58,WWE Royal Rumble,5/29/2023,Fatal 4-Way,Rhea Ripley,LA Knight,88.6,57.5,1,3,0,Yes,LA Knight
+59,WWE Raw,2/3/2023,Singles,Roman Reigns,Cody Rhodes,83.5,55.1,3,4,0,Yes,Roman Reigns
+60,WWE WrestleMania,8/22/2022,Fatal 4-Way,LA Knight,Seth Rollins,74,87.4,5,0,1,Yes,LA Knight
+61,WWE SummerSlam,6/27/2025,Steel Cage,Cody Rhodes,Becky Lynch,72.8,43.8,0,5,0,No,Becky Lynch
+62,WWE SummerSlam,10/17/2023,Singles,Drew McIntyre,Rhea Ripley,45.4,54.4,0,3,1,No,Rhea Ripley
+63,WWE WrestleMania,1/5/2023,Steel Cage,Seth Rollins,Rhea Ripley,49.1,41.9,0,2,1,Yes,Rhea Ripley
+64,WWE Raw,5/23/2022,Tag Team,Roman Reigns,Drew McIntyre,60.8,43.7,2,3,0,No,Drew McIntyre
+65,WWE SmackDown,7/26/2025,Triple Threat,Charlotte Flair,Roman Reigns,40.5,89.3,1,0,0,No,Charlotte Flair
+66,WWE WrestleMania,10/3/2025,Steel Cage,Bianca Belair,Charlotte Flair,75.6,59.1,5,2,0,No,Bianca Belair
+67,WWE SmackDown,12/30/2025,Singles,Roman Reigns,Cody Rhodes,72.3,63.9,3,5,0,No,Roman Reigns
+68,WWE WrestleMania,3/16/2022,Tag Team,Seth Rollins,Drew McIntyre,62.7,70.1,4,2,1,No,Drew McIntyre
+69,WWE SmackDown,5/29/2025,Singles,Seth Rollins,Becky Lynch,53,53.8,4,2,1,Yes,Seth Rollins
+70,WWE SummerSlam,7/21/2022,Triple Threat,Charlotte Flair,LA Knight,61,56.7,5,2,0,Yes,LA Knight
+71,WWE Raw,3/1/2024,Singles,LA Knight,Becky Lynch,47.7,61.2,4,1,0,No,LA Knight
+72,WWE SummerSlam,8/7/2022,Triple Threat,Gunther,Rhea Ripley,42.3,58.1,4,2,1,No,Gunther
+73,WWE SmackDown,12/29/2022,Fatal 4-Way,Cody Rhodes,Seth Rollins,89.8,41,4,3,1,Yes,Cody Rhodes
+74,WWE WrestleMania,7/27/2024,Fatal 4-Way,Drew McIntyre,Gunther,67.5,83.6,2,1,0,Yes,Gunther
+75,WWE SummerSlam,3/22/2025,Triple Threat,Gunther,Rhea Ripley,68.5,54.3,4,0,0,No,Rhea Ripley
+76,WWE Royal Rumble,7/26/2024,Steel Cage,Becky Lynch,Roman Reigns,61,63.3,2,4,1,No,Roman Reigns
+77,WWE Raw,11/20/2024,Fatal 4-Way,Gunther,Roman Reigns,82.6,49.4,3,0,1,No,Gunther
+78,WWE Raw,12/31/2024,Singles,Charlotte Flair,Seth Rollins,75.4,48,4,4,1,No,Seth Rollins
+79,WWE WrestleMania,11/14/2022,Steel Cage,Becky Lynch,Gunther,43.9,67.7,0,3,1,Yes,Becky Lynch
+80,WWE SummerSlam,12/7/2024,Steel Cage,Gunther,Cody Rhodes,60.3,64.4,1,0,1,Yes,Cody Rhodes
+81,WWE WrestleMania,9/22/2025,Fatal 4-Way,LA Knight,Rhea Ripley,42.4,89.5,1,4,0,No,LA Knight
+82,WWE WrestleMania,3/16/2025,Tag Team,Gunther,Rhea Ripley,74.6,47.8,5,3,1,No,Gunther
+83,WWE WrestleMania,10/21/2025,Singles,Becky Lynch,LA Knight,59,55.8,0,4,0,Yes,LA Knight
+84,WWE Raw,5/1/2022,Steel Cage,Cody Rhodes,Roman Reigns,65.9,89.2,5,4,0,No,Roman Reigns
+85,WWE WrestleMania,8/16/2025,Fatal 4-Way,Drew McIntyre,Rhea Ripley,47.6,82.9,0,0,1,No,Drew McIntyre
+86,WWE SmackDown,2/5/2023,Triple Threat,Charlotte Flair,Roman Reigns,61.1,77.5,4,0,1,Yes,Charlotte Flair
+87,WWE SmackDown,11/10/2023,Steel Cage,Cody Rhodes,Charlotte Flair,67.4,61.5,4,2,0,No,Cody Rhodes
+88,WWE Royal Rumble,2/25/2025,Singles,Roman Reigns,Cody Rhodes,81.7,78.4,5,5,0,No,Roman Reigns
+89,WWE SummerSlam,3/29/2023,Tag Team,Bianca Belair,Roman Reigns,78.3,72.8,2,3,0,No,Bianca Belair
+90,WWE WrestleMania,11/30/2023,Singles,Seth Rollins,Becky Lynch,88.5,52.8,3,3,1,Yes,Becky Lynch
+91,WWE Royal Rumble,12/2/2022,Triple Threat,Gunther,Becky Lynch,65.1,69.1,5,5,1,Yes,Gunther
+92,WWE Royal Rumble,9/7/2025,Steel Cage,Becky Lynch,Gunther,64.8,62.3,4,5,1,Yes,Gunther
+93,WWE Royal Rumble,1/14/2023,Tag Team,Bianca Belair,Seth Rollins,58.2,77.6,3,5,1,Yes,Bianca Belair
+94,WWE SummerSlam,1/28/2024,Triple Threat,LA Knight,Seth Rollins,42.9,62.6,5,1,1,No,Seth Rollins
+95,WWE SmackDown,6/22/2025,Tag Team,Cody Rhodes,Becky Lynch,80.5,70.2,4,2,0,Yes,Cody Rhodes
+96,WWE Royal Rumble,1/18/2022,Steel Cage,Roman Reigns,Gunther,57.9,67.3,4,4,0,Yes,Gunther
+97,WWE SummerSlam,9/3/2024,Triple Threat,Gunther,Roman Reigns,65.2,60.1,2,4,1,No,Roman Reigns
+98,WWE Raw,7/4/2024,Tag Team,Gunther,Charlotte Flair,89,76.1,2,4,0,Yes,Gunther
+99,WWE Royal Rumble,11/7/2024,Singles,Drew McIntyre,Cody Rhodes,82.3,43.1,1,4,1,Yes,Drew McIntyre
+100,WWE WrestleMania,3/24/2025,Tag Team,LA Knight,Charlotte Flair,41.9,47,2,0,0,No,Charlotte Flair
+101,WWE WrestleMania,3/6/2022,Ladder Match,Gunther,Kevin Owens,66.1,32.8,0,3,1,No,Kevin Owens
+102,WWE Payback,4/4/2021,Fatal 4-Way,Drew McIntyre,Toni Storm,52.2,77.2,4,1,0,No,Drew McIntyre
+103,WWE Clash at the Castle,12/12/2017,Triple Threat,Carmella,Drew McIntyre,41,45.5,3,5,0,No,Carmella
+104,WWE Elimination Chamber,7/16/2017,Tag Team,Sami Zayn,Liv Morgan,43,74.9,5,5,1,No,Sami Zayn
+105,WWE TLC,3/24/2018,Triple Threat,Nia Jax,Gunther,87.8,34.3,2,2,1,No,Nia Jax
+106,WWE Backlash,12/23/2015,Triple Threat,Charlotte Flair,Finn Balor,68.5,79.5,4,4,1,No,Charlotte Flair
+107,WWE Hell in a Cell,3/3/2025,Ladder Match,Liv Morgan,Naomi,85.5,43.9,5,1,0,Yes,Liv Morgan
+108,WWE Money in the Bank,4/7/2020,Fatal 4-Way,Cody Rhodes,Roman Reigns,74.3,90,0,4,0,No,Roman Reigns
+109,WWE Hell in a Cell,11/21/2018,Singles,Bayley,Brock Lesnar,53.4,78.5,5,1,1,Yes,Bayley
+110,WWE Payback,4/29/2018,Tag Team,Liv Morgan,Nia Jax,41.4,83.3,4,5,0,No,Nia Jax
+111,WWE Hell in a Cell,9/1/2017,Fatal 4-Way,Seth Rollins,Bobby Lashley,70.5,82,1,3,1,No,Seth Rollins
+112,WWE Clash at the Castle,1/2/2024,Fatal 4-Way,Naomi,Randy Orton,47.1,83.8,0,0,1,Yes,Naomi
+113,WWE Extreme Rules,9/26/2025,Fatal 4-Way,Kevin Owens,Solo Sikoa,74.9,45.2,5,1,1,Yes,Kevin Owens
+114,WWE Elimination Chamber,8/11/2025,Fatal 4-Way,Io Shirai,Becky Lynch,81.4,62.7,0,2,0,Yes,Becky Lynch
+115,WWE WrestleMania,3/4/2015,Ladder Match,Carmella,Jimmy Uso,67.9,48.2,1,2,0,Yes,Carmella
+116,WWE Clash at the Castle,4/5/2020,Fatal 4-Way,Finn Balor,Edge,79.3,53.7,4,3,0,Yes,Edge
+117,WWE Elimination Chamber,12/23/2021,Triple Threat,Brock Lesnar,Carmella,49.2,38.9,5,4,1,No,Carmella
+118,WWE WrestleMania,12/30/2024,Fatal 4-Way,Asuka,Drew McIntyre,31.7,58.4,0,0,1,Yes,Drew McIntyre
+119,WWE Clash at the Castle,11/26/2020,Singles,Bobby Lashley,Naomi,78.8,69.3,1,0,1,Yes,Bobby Lashley
+120,WWE Backlash,1/28/2023,Steel Cage,Gunther,Randy Orton,77.2,42.4,0,3,1,Yes,Gunther
+121,WWE Royal Rumble,1/9/2017,Steel Cage,Jey Uso,Cody Rhodes,39.8,81.5,1,2,0,No,Jey Uso
+122,WWE Crown Jewel,10/20/2015,Tag Team,Bobby Lashley,Jimmy Uso,60.9,65.9,1,2,0,No,Bobby Lashley
+123,WWE SummerSlam,11/4/2019,Fatal 4-Way,Brock Lesnar,Edge,71.5,66.2,4,4,1,No,Edge
+124,WWE Elimination Chamber,8/14/2025,Singles,Jey Uso,Asuka,65.5,66.3,4,4,0,Yes,Jey Uso
+125,WWE Money in the Bank,8/1/2020,Tag Team,Carmella,Randy Orton,80,48.3,4,2,1,No,Randy Orton
+126,WWE Elimination Chamber,1/10/2018,Steel Cage,Edge,Bobby Lashley,72.6,37.4,5,1,0,Yes,Bobby Lashley
+127,WWE Raw,12/19/2021,Tag Team,Seth Rollins,Rhea Ripley,84.7,63.1,5,3,1,No,Rhea Ripley
+128,WWE Clash at the Castle,6/29/2018,Steel Cage,Solo Sikoa,Rhea Ripley,51.2,69.8,4,1,0,No,Rhea Ripley
+129,WWE Backlash,8/28/2016,Triple Threat,Kevin Owens,Bobby Lashley,51.8,51.1,5,5,0,Yes,Kevin Owens
+130,WWE Money in the Bank,4/28/2015,Tag Team,Roman Reigns,Jimmy Uso,82.6,84,4,4,1,Yes,Roman Reigns
+131,WWE Money in the Bank,6/18/2025,Triple Threat,Liv Morgan,Jimmy Uso,37.7,56.3,3,0,0,Yes,Liv Morgan
+132,NXT TakeOver,12/10/2023,Steel Cage,Rhea Ripley,Roman Reigns,66.2,38.5,1,4,1,No,Rhea Ripley
+133,WWE Crown Jewel,3/30/2021,Singles,Asuka,Jey Uso,51.8,87,0,5,0,Yes,Asuka
+134,WWE Clash at the Castle,1/13/2019,Singles,Finn Balor,Edge,39.3,52.8,0,4,0,Yes,Finn Balor
+135,WWE SummerSlam,8/26/2018,Steel Cage,Alexa Bliss,Sheamus,88.1,89.3,5,2,1,Yes,Sheamus
+136,WWE WrestleMania,1/10/2025,Fatal 4-Way,Drew McIntyre,Natalya,54.2,84.6,4,2,1,Yes,Natalya
+137,WWE Extreme Rules,5/4/2023,Steel Cage,Bayley,Charlotte Flair,74,88.8,1,1,0,No,Bayley
+138,WWE Crown Jewel,2/22/2025,Fatal 4-Way,Liv Morgan,Bianca Belair,65.2,60.7,2,3,0,No,Liv Morgan
+139,WWE Survivor Series,5/21/2022,Tag Team,Jimmy Uso,Jey Uso,73.3,33.9,2,5,0,Yes,Jimmy Uso
+140,WWE Hell in a Cell,11/12/2019,Ladder Match,Brock Lesnar,Sheamus,52.5,44.8,2,4,0,No,Sheamus
+141,WWE Extreme Rules,10/26/2018,Triple Threat,Alexa Bliss,Randy Orton,80.8,75.4,2,1,0,Yes,Randy Orton
+142,WWE Survivor Series,9/8/2017,Tag Team,Sami Zayn,Roman Reigns,37.9,88.4,3,3,0,No,Roman Reigns
+143,WWE Clash at the Castle,6/2/2023,Fatal 4-Way,Bayley,Rey Mysterio,80.8,56,5,3,1,Yes,Rey Mysterio
+144,WWE SummerSlam,1/1/2024,Triple Threat,Alexa Bliss,Becky Lynch,35.3,86.1,3,3,1,No,Becky Lynch
+145,WWE Backlash,7/23/2015,Triple Threat,Nia Jax,Solo Sikoa,57.7,50.6,1,3,1,Yes,Nia Jax
+146,WWE Clash at the Castle,11/15/2021,Ladder Match,Finn Balor,Shinsuke Nakamura,43.9,31.4,4,2,1,Yes,Finn Balor
+147,WWE Money in the Bank,12/20/2024,Triple Threat,Seth Rollins,Gunther,49.4,39,3,4,0,Yes,Gunther
+148,WWE SmackDown,7/22/2021,Singles,Nia Jax,Cody Rhodes,54.6,87.6,3,4,1,No,Cody Rhodes
+149,WWE Payback,8/1/2017,Steel Cage,Gunther,Solo Sikoa,55.8,67.1,1,0,1,Yes,Gunther
+150,WWE Backlash,12/7/2022,Singles,Becky Lynch,Sheamus,43.3,56.2,0,4,0,No,Sheamus
+151,WWE Raw,10/15/2019,Ladder Match,Charlotte Flair,AJ Styles,74.4,43.7,5,2,0,No,AJ Styles
+152,WWE Fastlane,9/5/2025,Singles,Io Shirai,Jey Uso,32.9,86.8,2,4,1,Yes,Io Shirai
+153,WWE Raw,6/9/2020,Tag Team,AJ Styles,Natalya,58.2,49.1,4,1,1,Yes,AJ Styles
+154,WWE Backlash,8/2/2016,Fatal 4-Way,Dakota Kai,Asuka,49.6,67,3,2,1,Yes,Dakota Kai
+155,NXT TakeOver,10/12/2017,Singles,Alexa Bliss,Solo Sikoa,40.4,39.5,1,1,1,No,Alexa Bliss
+156,WWE Fastlane,11/6/2016,Tag Team,Sheamus,Finn Balor,51.4,50.7,3,5,1,Yes,Sheamus
+157,WWE Crown Jewel,2/27/2022,Steel Cage,Edge,Jimmy Uso,46.7,50.7,2,5,1,Yes,Edge
+158,WWE SmackDown,2/24/2018,Tag Team,Rey Mysterio,AJ Styles,34.9,60,3,1,0,No,AJ Styles
+159,NXT TakeOver,10/19/2024,Steel Cage,Drew McIntyre,Sami Zayn,58,76.2,4,5,1,No,Drew McIntyre
+160,WWE Clash at the Castle,3/28/2023,Ladder Match,Carmella,Roman Reigns,86.9,77,4,3,0,Yes,Carmella
+161,WWE Survivor Series,5/13/2022,Steel Cage,Sami Zayn,Randy Orton,73.2,40.5,3,3,0,Yes,Sami Zayn
+162,WWE Survivor Series,5/16/2017,Ladder Match,Brock Lesnar,AJ Styles,63.6,36.4,5,3,1,Yes,Brock Lesnar
+163,WWE WrestleMania,1/19/2021,Ladder Match,Bianca Belair,AJ Styles,30.9,55.2,0,4,1,Yes,AJ Styles
+164,WWE Clash at the Castle,4/19/2024,Ladder Match,Sami Zayn,Jey Uso,67.4,51,4,3,1,No,Sami Zayn
+165,NXT TakeOver,4/12/2017,Steel Cage,Naomi,Jimmy Uso,89.4,82.6,5,4,0,No,Jimmy Uso
+166,WWE Fastlane,4/16/2022,Tag Team,Jimmy Uso,Seth Rollins,73.1,33.8,5,0,1,Yes,Seth Rollins
+167,WWE Money in the Bank,8/23/2021,Tag Team,AJ Styles,Alexa Bliss,32.7,88.3,0,1,0,Yes,Alexa Bliss
+168,WWE SummerSlam,1/25/2021,Tag Team,Asuka,Bobby Lashley,80.9,58.8,4,1,0,Yes,Bobby Lashley
+169,WWE Crown Jewel,4/29/2022,Tag Team,Bayley,Liv Morgan,79.1,30.4,2,0,0,Yes,Liv Morgan
+170,WWE Clash at the Castle,4/15/2019,Tag Team,Bobby Lashley,Becky Lynch,58.5,50.8,3,1,0,No,Bobby Lashley
+171,WWE Clash at the Castle,10/17/2016,Triple Threat,Kevin Owens,Randy Orton,44.1,50.1,1,5,1,Yes,Kevin Owens
+172,WWE Royal Rumble,4/18/2018,Fatal 4-Way,Bianca Belair,Charlotte Flair,71.4,35.2,3,3,1,No,Bianca Belair
+173,WWE TLC,12/15/2025,Fatal 4-Way,Jimmy Uso,Liv Morgan,30.9,68.5,0,4,1,Yes,Liv Morgan
+174,WWE Crown Jewel,7/11/2021,Triple Threat,Kevin Owens,Gunther,59.1,40.7,5,1,0,No,Gunther
+175,WWE Payback,9/29/2021,Ladder Match,Kevin Owens,Braun Strowman,75.5,47.7,1,2,1,Yes,Braun Strowman
+176,WWE Payback,11/3/2025,Triple Threat,Naomi,AJ Styles,31.4,61.4,4,3,1,No,Naomi
+177,WWE Royal Rumble,11/10/2024,Ladder Match,Dakota Kai,Liv Morgan,51.4,69.9,3,3,1,No,Liv Morgan
+178,WWE TLC,12/8/2017,Tag Team,Shinsuke Nakamura,Finn Balor,79.6,88.3,4,2,0,Yes,Finn Balor
+179,WWE Raw,3/1/2023,Triple Threat,Becky Lynch,Liv Morgan,73.9,76.8,4,5,0,Yes,Becky Lynch
+180,WWE Money in the Bank,1/31/2015,Fatal 4-Way,Io Shirai,Gunther,49.5,73.5,5,0,1,No,Io Shirai
+181,WWE Raw,4/7/2015,Singles,Nia Jax,Drew McIntyre,82.7,36.6,2,5,1,No,Drew McIntyre
+182,WWE Extreme Rules,6/10/2017,Tag Team,Jey Uso,Dakota Kai,35,73.1,3,3,1,No,Jey Uso
+183,WWE SummerSlam,2/26/2024,Triple Threat,Sami Zayn,Bobby Lashley,60.2,52.6,3,1,0,Yes,Bobby Lashley
+184,WWE Clash at the Castle,11/30/2018,Fatal 4-Way,Becky Lynch,Io Shirai,75.6,58.5,3,0,1,Yes,Becky Lynch
+185,WWE Clash at the Castle,9/6/2018,Tag Team,Solo Sikoa,Jimmy Uso,61,79.1,3,3,1,Yes,Jimmy Uso
+186,WWE Crown Jewel,1/22/2023,Tag Team,Rhea Ripley,Nia Jax,56.5,83.5,0,1,1,Yes,Nia Jax
+187,WWE Hell in a Cell,3/14/2024,Triple Threat,Solo Sikoa,Naomi,32.1,46,0,2,1,No,Naomi
+188,WWE Survivor Series,7/29/2022,Tag Team,Gunther,Nia Jax,87.7,40.6,5,2,1,No,Nia Jax
+189,WWE Fastlane,7/5/2017,Singles,Dakota Kai,Drew McIntyre,67.3,57.1,5,4,1,Yes,Dakota Kai
+190,WWE Fastlane,9/8/2015,Steel Cage,Finn Balor,Liv Morgan,44.9,73.1,5,5,0,No,Liv Morgan
+191,WWE Clash at the Castle,3/31/2017,Singles,Randy Orton,Bayley,48.8,47.1,3,1,0,No,Bayley
+192,WWE Hell in a Cell,9/12/2018,Triple Threat,Becky Lynch,Braun Strowman,74.9,84.9,2,4,1,No,Becky Lynch
+193,WWE Backlash,9/16/2024,Ladder Match,Dakota Kai,Kevin Owens,87.9,88.7,4,5,1,Yes,Kevin Owens
+194,WWE Crown Jewel,11/25/2020,Steel Cage,Naomi,Io Shirai,70.2,70.6,5,2,0,No,Naomi
+195,WWE Crown Jewel,11/11/2024,Tag Team,Rhea Ripley,Toni Storm,38.5,81.5,3,3,0,Yes,Rhea Ripley
+196,WWE Money in the Bank,5/4/2021,Tag Team,Roman Reigns,Sheamus,74.1,62,4,1,1,Yes,Roman Reigns
+197,WWE SummerSlam,11/26/2018,Singles,Bobby Lashley,Natalya,80.9,60.2,5,1,1,Yes,Natalya
+198,WWE Crown Jewel,8/9/2017,Singles,Toni Storm,Bobby Lashley,70.4,47.7,1,4,0,Yes,Toni Storm
+199,WWE Survivor Series,1/31/2024,Ladder Match,Sami Zayn,Nia Jax,54.7,38.3,4,2,1,No,Nia Jax
+200,WWE SmackDown,7/16/2023,Steel Cage,Sami Zayn,Carmella,60.5,76.7,2,3,1,Yes,Carmella
+201,WWE Clash at the Castle,8/29/2016,Steel Cage,Solo Sikoa,Jimmy Uso,80.3,85.6,1,2,0,No,Jimmy Uso
+202,NXT TakeOver,6/17/2016,Steel Cage,Nia Jax,Seth Rollins,67.3,64.4,1,5,0,Yes,Nia Jax
+203,WWE Clash at the Castle,12/20/2024,Fatal 4-Way,Jimmy Uso,Randy Orton,65.4,44,2,1,1,No,Jimmy Uso
+204,WWE Extreme Rules,12/27/2024,Fatal 4-Way,Nia Jax,Naomi,85.6,30.6,3,3,1,Yes,Naomi
+205,WWE Crown Jewel,3/15/2017,Tag Team,Liv Morgan,Jimmy Uso,54.1,63.7,1,4,0,No,Jimmy Uso
+206,WWE Money in the Bank,4/7/2023,Steel Cage,Charlotte Flair,Toni Storm,50.5,48.7,5,4,0,No,Toni Storm
+207,WWE Raw,2/1/2019,Fatal 4-Way,Edge,Jey Uso,89.6,43.7,5,5,0,Yes,Edge
+208,WWE Extreme Rules,4/4/2017,Singles,Dakota Kai,Natalya,58.7,78,4,0,0,No,Dakota Kai
+209,WWE Backlash,5/23/2022,Ladder Match,Gunther,Natalya,66.5,30.6,0,1,1,Yes,Gunther
+210,WWE Raw,12/22/2022,Tag Team,Jey Uso,Bobby Lashley,48.1,43.2,1,5,0,No,Jey Uso
+211,WWE TLC,9/6/2018,Ladder Match,Shinsuke Nakamura,Nia Jax,84.9,63.1,1,0,0,Yes,Shinsuke Nakamura
+212,WWE SummerSlam,12/6/2018,Triple Threat,Rey Mysterio,Bayley,59,77.3,0,4,1,Yes,Bayley
+213,WWE TLC,5/13/2022,Triple Threat,Drew McIntyre,Bianca Belair,79.4,53,0,2,0,No,Bianca Belair
+214,WWE Payback,10/15/2017,Singles,Jimmy Uso,Brock Lesnar,51.6,88.1,4,3,0,No,Brock Lesnar
+215,WWE Money in the Bank,11/11/2023,Ladder Match,Kevin Owens,Roman Reigns,60.4,33.9,2,5,0,Yes,Roman Reigns
+216,WWE Clash at the Castle,2/2/2019,Ladder Match,Dakota Kai,Sami Zayn,71.4,73.2,3,3,0,Yes,Dakota Kai
+217,WWE TLC,5/4/2024,Ladder Match,Rhea Ripley,Charlotte Flair,58.9,51.3,2,4,1,No,Rhea Ripley
+218,WWE Clash at the Castle,4/15/2021,Tag Team,Randy Orton,Finn Balor,86,35.8,2,1,0,No,Randy Orton
+219,WWE Crown Jewel,4/26/2025,Steel Cage,Carmella,Rhea Ripley,83.9,88.7,2,2,1,Yes,Rhea Ripley
+220,WWE Crown Jewel,10/14/2018,Singles,Liv Morgan,Randy Orton,60.7,66.1,5,3,0,Yes,Liv Morgan
+221,WWE Clash at the Castle,12/10/2015,Tag Team,Rey Mysterio,Drew McIntyre,54.6,34.8,5,0,0,No,Rey Mysterio
+222,WWE SmackDown,4/6/2018,Steel Cage,Bianca Belair,Roman Reigns,43.8,45.3,4,1,1,No,Roman Reigns
+223,WWE Money in the Bank,7/2/2019,Tag Team,Shinsuke Nakamura,Braun Strowman,70.3,71.1,4,3,1,Yes,Braun Strowman
+224,WWE Payback,5/15/2019,Singles,Io Shirai,Toni Storm,42,54.2,2,0,0,No,Io Shirai
+225,WWE Elimination Chamber,12/2/2023,Ladder Match,Cody Rhodes,Rhea Ripley,60,47.7,4,4,0,Yes,Rhea Ripley
+226,WWE Payback,11/23/2016,Triple Threat,Naomi,Charlotte Flair,60.7,63.2,0,2,0,Yes,Naomi
+227,WWE SummerSlam,1/14/2016,Singles,Drew McIntyre,Becky Lynch,36,37.1,3,4,1,No,Becky Lynch
+228,WWE Backlash,6/4/2021,Steel Cage,Finn Balor,Becky Lynch,88.5,89.9,2,5,1,No,Finn Balor
+229,WWE Payback,5/26/2023,Steel Cage,Charlotte Flair,Becky Lynch,30.5,44,5,5,0,No,Becky Lynch
+230,WWE Fastlane,9/30/2023,Steel Cage,Drew McIntyre,Asuka,39.9,79.6,3,0,0,No,Drew McIntyre
+231,WWE Clash at the Castle,12/8/2019,Singles,Randy Orton,Carmella,64.7,67.2,0,3,0,Yes,Randy Orton
+232,WWE Raw,8/8/2023,Triple Threat,Rey Mysterio,Edge,76.6,49.6,1,1,1,Yes,Edge
+233,WWE Money in the Bank,10/28/2020,Ladder Match,Dakota Kai,Sheamus,58.7,55.8,5,0,0,Yes,Dakota Kai
+234,WWE Crown Jewel,3/19/2022,Singles,Drew McIntyre,Edge,70.1,47.5,3,5,0,Yes,Edge
+235,WWE Payback,6/6/2021,Tag Team,Liv Morgan,Rey Mysterio,83.6,43.2,5,0,1,No,Liv Morgan
+236,WWE Royal Rumble,11/5/2023,Fatal 4-Way,Asuka,Carmella,50.1,38.3,0,4,1,No,Asuka
+237,WWE Payback,11/12/2024,Fatal 4-Way,AJ Styles,Edge,73.8,33.4,0,3,1,Yes,AJ Styles
+238,WWE WrestleMania,10/9/2018,Singles,Randy Orton,Cody Rhodes,81.3,33.3,4,4,1,Yes,Cody Rhodes
+239,NXT TakeOver,1/17/2023,Steel Cage,Dakota Kai,Toni Storm,57.3,30.4,4,2,1,Yes,Toni Storm
+240,WWE Survivor Series,4/11/2025,Ladder Match,Alexa Bliss,Liv Morgan,74,58,0,2,0,No,Liv Morgan
+241,WWE SmackDown,9/13/2016,Triple Threat,Charlotte Flair,Becky Lynch,78.1,82.5,2,3,1,No,Charlotte Flair
+242,WWE Survivor Series,10/28/2024,Tag Team,Sheamus,Rhea Ripley,43.3,88.2,1,1,1,No,Rhea Ripley
+243,WWE Crown Jewel,2/24/2025,Steel Cage,Drew McIntyre,Dakota Kai,58.1,36.9,3,4,1,Yes,Drew McIntyre
+244,WWE Payback,9/19/2017,Singles,Bobby Lashley,Asuka,49.5,60.2,1,2,0,No,Bobby Lashley
+245,WWE Crown Jewel,8/4/2019,Triple Threat,Liv Morgan,Jimmy Uso,58.9,30.4,4,1,1,Yes,Jimmy Uso
+246,WWE WrestleMania,6/25/2015,Singles,Cody Rhodes,Rhea Ripley,64.9,67.4,4,3,1,Yes,Rhea Ripley
+247,WWE Backlash,9/9/2021,Steel Cage,Roman Reigns,Charlotte Flair,66.1,59.4,2,5,1,No,Roman Reigns
+248,WWE Money in the Bank,7/24/2022,Ladder Match,Rey Mysterio,Sheamus,78.1,64.3,5,3,0,Yes,Sheamus
+249,WWE Crown Jewel,10/24/2016,Ladder Match,Carmella,Edge,77.1,77,2,5,1,Yes,Edge
+250,WWE Survivor Series,12/11/2022,Tag Team,Becky Lynch,Finn Balor,52.9,64.1,2,2,0,No,Becky Lynch
+251,WWE Crown Jewel,3/8/2018,Triple Threat,Nia Jax,Rhea Ripley,81.7,80.6,0,0,1,No,Nia Jax
+252,WWE Elimination Chamber,11/6/2017,Singles,Solo Sikoa,Charlotte Flair,44.3,70.4,0,0,0,Yes,Solo Sikoa
+253,WWE TLC,12/14/2016,Fatal 4-Way,Drew McIntyre,AJ Styles,70.4,61.6,0,0,0,Yes,AJ Styles
+254,WWE Raw,7/2/2016,Singles,Randy Orton,Sheamus,33.7,78,2,3,0,Yes,Randy Orton
+255,WWE SummerSlam,11/18/2025,Tag Team,Brock Lesnar,Bianca Belair,50.5,37.5,2,1,0,No,Brock Lesnar
+256,WWE Crown Jewel,7/24/2018,Singles,Nia Jax,Gunther,55.9,46.7,2,2,1,No,Nia Jax
+257,WWE Crown Jewel,2/24/2017,Fatal 4-Way,Toni Storm,Gunther,89.8,66.5,2,3,0,No,Gunther
+258,WWE Clash at the Castle,12/22/2021,Singles,Nia Jax,Finn Balor,67.5,81.2,1,5,0,No,Nia Jax
+259,WWE Backlash,8/12/2023,Ladder Match,AJ Styles,Brock Lesnar,43.2,83.1,3,4,1,Yes,Brock Lesnar
+260,WWE Royal Rumble,8/17/2015,Steel Cage,Roman Reigns,Cody Rhodes,38,81.9,1,5,0,Yes,Cody Rhodes
+261,WWE Clash at the Castle,3/6/2018,Steel Cage,Solo Sikoa,Jey Uso,75.6,74.1,0,0,0,No,Solo Sikoa
+262,WWE Backlash,12/28/2022,Singles,Rey Mysterio,Cody Rhodes,86.3,45.6,4,1,1,Yes,Cody Rhodes
+263,WWE Payback,3/11/2016,Triple Threat,Carmella,Sheamus,42.9,55,2,5,0,No,Carmella
+264,WWE Payback,4/8/2022,Ladder Match,Sami Zayn,Jey Uso,75.1,53,0,3,1,No,Jey Uso
+265,WWE Crown Jewel,9/29/2023,Singles,Seth Rollins,Liv Morgan,31.9,40.8,4,2,1,No,Liv Morgan
+266,WWE Elimination Chamber,4/27/2025,Tag Team,Solo Sikoa,Liv Morgan,72.2,40.8,0,0,1,Yes,Liv Morgan
+267,WWE TLC,4/10/2019,Singles,Natalya,Bianca Belair,42.5,81.9,2,0,1,Yes,Bianca Belair
+268,WWE Money in the Bank,5/8/2018,Singles,Toni Storm,AJ Styles,51.1,71,1,1,0,No,AJ Styles
+269,WWE Clash at the Castle,4/6/2020,Steel Cage,Becky Lynch,Bayley,85.2,88.4,2,1,1,Yes,Bayley
+270,WWE SummerSlam,5/29/2023,Steel Cage,Charlotte Flair,Bayley,58.5,64.8,1,2,0,No,Charlotte Flair
+271,WWE Clash at the Castle,3/29/2021,Singles,Braun Strowman,Randy Orton,54.5,70.1,5,2,1,Yes,Braun Strowman
+272,WWE WrestleMania,9/29/2020,Steel Cage,Liv Morgan,Naomi,74.8,78.5,0,5,0,Yes,Liv Morgan
+273,WWE Raw,9/25/2022,Singles,Jey Uso,Rhea Ripley,61.8,79.4,3,2,1,Yes,Rhea Ripley
+274,WWE Money in the Bank,9/22/2020,Singles,Bobby Lashley,Asuka,77.9,66.7,1,4,0,No,Bobby Lashley
+275,WWE Extreme Rules,2/1/2022,Ladder Match,Becky Lynch,Io Shirai,52.4,85.8,3,2,1,Yes,Io Shirai
+276,WWE Crown Jewel,2/11/2015,Triple Threat,Toni Storm,Nia Jax,35.5,74,0,5,1,Yes,Nia Jax
+277,WWE Fastlane,7/24/2025,Tag Team,Cody Rhodes,Roman Reigns,84.2,75.8,3,4,1,Yes,Roman Reigns
+278,WWE Clash at the Castle,7/15/2016,Tag Team,Gunther,Naomi,52.1,60.3,4,0,0,No,Gunther
+279,WWE Survivor Series,10/25/2016,Ladder Match,Toni Storm,Seth Rollins,32.4,87,4,3,0,No,Toni Storm
+280,WWE Payback,6/6/2021,Triple Threat,Sami Zayn,Shinsuke Nakamura,43.8,68.2,1,5,0,Yes,Sami Zayn
+281,WWE Clash at the Castle,3/12/2025,Fatal 4-Way,Nia Jax,Solo Sikoa,56.9,61.6,1,1,0,Yes,Nia Jax
+282,WWE WrestleMania,8/12/2022,Tag Team,Charlotte Flair,Drew McIntyre,83.9,45,4,3,1,Yes,Charlotte Flair
+283,WWE SmackDown,6/29/2018,Ladder Match,Braun Strowman,Gunther,75.1,37.6,4,2,1,No,Braun Strowman
+284,WWE Crown Jewel,4/11/2018,Tag Team,Drew McIntyre,Sheamus,36.4,66.8,5,1,0,Yes,Sheamus
+285,WWE SmackDown,4/15/2017,Steel Cage,Shinsuke Nakamura,Jey Uso,38.9,70.4,4,3,1,Yes,Jey Uso
+286,WWE SummerSlam,4/6/2024,Singles,Alexa Bliss,Jimmy Uso,54.8,48.2,0,4,0,Yes,Jimmy Uso
+287,NXT TakeOver,9/17/2024,Singles,Bianca Belair,Kevin Owens,36.7,84.5,5,2,1,No,Bianca Belair
+288,WWE Survivor Series,9/23/2021,Ladder Match,Roman Reigns,Rhea Ripley,35.5,75.8,4,4,1,No,Rhea Ripley
+289,WWE Raw,9/20/2022,Ladder Match,Edge,Cody Rhodes,79.8,51.1,2,4,0,No,Edge
+290,WWE Crown Jewel,10/23/2020,Singles,Io Shirai,Charlotte Flair,31.2,35.2,3,1,0,Yes,Charlotte Flair
+291,WWE Payback,1/24/2023,Steel Cage,Roman Reigns,Sheamus,38.5,38.3,2,1,1,No,Sheamus
+292,WWE Money in the Bank,6/25/2023,Fatal 4-Way,AJ Styles,Jey Uso,75.1,83,1,0,1,No,Jey Uso
+293,WWE Survivor Series,8/7/2017,Steel Cage,Shinsuke Nakamura,Jimmy Uso,53.5,58.7,2,5,1,No,Shinsuke Nakamura
+294,WWE Payback,10/30/2017,Steel Cage,Bobby Lashley,Bayley,32.6,76.5,4,4,0,Yes,Bayley
+295,WWE Payback,10/30/2025,Steel Cage,Cody Rhodes,Finn Balor,74.3,35.4,3,4,1,No,Finn Balor
+296,WWE Raw,3/2/2022,Fatal 4-Way,Cody Rhodes,Roman Reigns,51,51.7,5,1,0,No,Roman Reigns
+297,WWE Survivor Series,7/4/2017,Triple Threat,Cody Rhodes,Roman Reigns,79.2,44.6,5,2,0,Yes,Cody Rhodes
+298,WWE Money in the Bank,5/25/2022,Fatal 4-Way,Asuka,Natalya,80.7,68.3,1,5,1,Yes,Natalya
+299,WWE Fastlane,6/27/2025,Tag Team,Jey Uso,Rhea Ripley,80.5,41.8,3,2,1,No,Rhea Ripley
+300,WWE SmackDown,8/30/2019,Fatal 4-Way,Seth Rollins,Liv Morgan,77.2,41.5,5,1,0,No,Seth Rollins
+301,WWE Fastlane,7/30/2018,Tag Team,Io Shirai,Jimmy Uso,74.3,50.1,1,5,0,Yes,Io Shirai
+302,WWE SummerSlam,11/21/2018,Triple Threat,Alexa Bliss,Bayley,36.7,31.6,0,2,0,No,Bayley
+303,WWE Survivor Series,4/8/2016,Steel Cage,Seth Rollins,Gunther,58.9,35.1,5,3,0,Yes,Gunther
+304,WWE SmackDown,2/23/2015,Steel Cage,Rhea Ripley,Carmella,45.9,45.8,1,5,1,No,Carmella
+305,NXT TakeOver,6/20/2022,Steel Cage,Naomi,Sami Zayn,73.1,63.5,5,2,0,Yes,Naomi
+306,WWE TLC,9/16/2017,Ladder Match,Alexa Bliss,Liv Morgan,65.6,31.4,0,4,0,No,Alexa Bliss
+307,WWE Money in the Bank,8/17/2019,Steel Cage,Alexa Bliss,Bianca Belair,61.8,64.1,1,0,0,No,Alexa Bliss
+308,WWE SummerSlam,12/21/2020,Triple Threat,Bianca Belair,Rey Mysterio,83.1,62.2,3,2,0,No,Bianca Belair
+309,WWE Survivor Series,10/25/2016,Steel Cage,Toni Storm,Braun Strowman,85.1,62.4,4,3,1,No,Toni Storm
+310,WWE Survivor Series,5/5/2024,Steel Cage,Dakota Kai,Cody Rhodes,59.5,66.5,1,0,0,No,Cody Rhodes
+311,WWE SummerSlam,1/22/2025,Fatal 4-Way,Jey Uso,Becky Lynch,32.1,53.1,0,2,0,Yes,Jey Uso
+312,WWE WrestleMania,11/12/2025,Tag Team,Shinsuke Nakamura,Nia Jax,45.5,53.2,1,5,0,No,Nia Jax
+313,WWE Elimination Chamber,12/21/2017,Steel Cage,Jey Uso,Alexa Bliss,79,32.2,5,3,1,No,Alexa Bliss
+314,WWE WrestleMania,3/30/2023,Ladder Match,Randy Orton,Becky Lynch,78.8,57.6,3,3,0,Yes,Becky Lynch
+315,WWE Backlash,9/28/2015,Tag Team,Alexa Bliss,Bianca Belair,69.2,70,3,1,0,Yes,Bianca Belair
+316,WWE Clash at the Castle,9/15/2020,Fatal 4-Way,Natalya,Seth Rollins,52.3,41,5,4,0,No,Natalya
+317,WWE Crown Jewel,12/27/2017,Fatal 4-Way,AJ Styles,Nia Jax,68.3,61,4,1,0,Yes,AJ Styles
+318,WWE Crown Jewel,8/16/2021,Ladder Match,Edge,Rhea Ripley,32.3,41.2,3,1,0,No,Rhea Ripley
+319,WWE Royal Rumble,3/6/2022,Triple Threat,Shinsuke Nakamura,Brock Lesnar,45.8,40.9,5,0,0,Yes,Brock Lesnar
+320,WWE Survivor Series,5/3/2019,Steel Cage,Sheamus,Solo Sikoa,63.3,41.5,3,2,0,No,Sheamus
+321,WWE Extreme Rules,11/1/2023,Fatal 4-Way,Rhea Ripley,Natalya,42.5,89.9,4,3,0,No,Rhea Ripley
+322,WWE Elimination Chamber,1/7/2021,Tag Team,Asuka,Solo Sikoa,76.7,46.4,1,4,1,No,Asuka
+323,WWE Royal Rumble,1/16/2018,Tag Team,Natalya,Toni Storm,42.4,58.1,2,2,0,No,Toni Storm
+324,WWE Money in the Bank,10/18/2015,Ladder Match,AJ Styles,Alexa Bliss,67.9,56.7,2,2,1,Yes,AJ Styles
+325,WWE Hell in a Cell,2/13/2017,Singles,Charlotte Flair,Bayley,37.5,46.3,0,1,0,Yes,Charlotte Flair
+326,WWE Fastlane,9/25/2024,Tag Team,Braun Strowman,Asuka,37.7,89.5,3,1,0,Yes,Asuka
+327,WWE SmackDown,2/13/2025,Fatal 4-Way,Solo Sikoa,Sheamus,71,68.8,5,2,1,Yes,Solo Sikoa
+328,WWE Money in the Bank,9/9/2023,Ladder Match,Bayley,Bobby Lashley,40.4,75.3,2,4,1,No,Bayley
+329,WWE Extreme Rules,10/5/2016,Ladder Match,Nia Jax,Naomi,47.3,70.6,2,1,1,Yes,Nia Jax
+330,WWE SmackDown,7/14/2015,Ladder Match,Rhea Ripley,Cody Rhodes,64.4,80.8,2,0,1,Yes,Cody Rhodes
+331,WWE Elimination Chamber,2/8/2016,Triple Threat,Drew McIntyre,Bayley,59.1,61.9,0,1,0,Yes,Bayley
+332,WWE Extreme Rules,4/6/2024,Ladder Match,Jimmy Uso,Carmella,53.8,72.7,4,1,0,Yes,Jimmy Uso
+333,WWE Survivor Series,10/4/2020,Tag Team,Braun Strowman,Bianca Belair,73.5,71.2,4,0,0,No,Braun Strowman
+334,WWE Raw,7/31/2024,Fatal 4-Way,Rey Mysterio,Braun Strowman,59.6,39.7,4,2,1,No,Braun Strowman
+335,WWE SmackDown,12/31/2022,Singles,Io Shirai,Edge,52.1,40.5,1,0,0,Yes,Edge
+336,WWE Clash at the Castle,4/26/2021,Ladder Match,Finn Balor,Bianca Belair,35,48.4,5,5,0,No,Finn Balor
+337,WWE WrestleMania,8/10/2023,Singles,Natalya,Randy Orton,73.4,38.5,0,4,0,No,Natalya
+338,WWE Crown Jewel,7/9/2022,Singles,Finn Balor,Edge,35.4,57.3,4,2,1,No,Finn Balor
+339,NXT TakeOver,8/2/2016,Fatal 4-Way,Solo Sikoa,Carmella,78.8,30.2,0,4,0,Yes,Solo Sikoa
+340,WWE SmackDown,3/11/2021,Triple Threat,Naomi,Carmella,76.4,56,5,5,0,Yes,Carmella
+341,WWE Fastlane,8/4/2017,Singles,Becky Lynch,Rhea Ripley,77,42.2,3,1,0,No,Rhea Ripley
+342,WWE Raw,9/3/2015,Singles,Sami Zayn,Braun Strowman,68.9,49.7,0,4,0,Yes,Braun Strowman
+343,NXT TakeOver,6/22/2023,Triple Threat,Bayley,Jimmy Uso,35.9,49.4,1,0,1,Yes,Jimmy Uso
+344,WWE Survivor Series,10/24/2025,Ladder Match,Braun Strowman,Solo Sikoa,49.3,60.6,2,1,0,No,Solo Sikoa
+345,WWE SmackDown,8/9/2022,Tag Team,Alexa Bliss,Naomi,62.9,82.2,1,2,1,Yes,Alexa Bliss
+346,WWE Money in the Bank,1/15/2020,Steel Cage,Solo Sikoa,Naomi,71.4,37.2,2,3,0,Yes,Solo Sikoa
+347,WWE Raw,12/16/2015,Triple Threat,Sami Zayn,Liv Morgan,81.9,40.1,0,0,0,No,Liv Morgan
+348,WWE Hell in a Cell,7/28/2016,Tag Team,Charlotte Flair,Randy Orton,78.6,49.9,1,0,1,Yes,Randy Orton
+349,WWE Money in the Bank,6/20/2023,Tag Team,Charlotte Flair,Carmella,55.8,64.1,4,3,1,No,Charlotte Flair
+350,WWE Payback,10/16/2021,Ladder Match,Randy Orton,Jey Uso,38.5,64.3,1,5,1,Yes,Jey Uso
+351,WWE WrestleMania,2/3/2017,Ladder Match,Charlotte Flair,Toni Storm,83.2,85.9,2,3,0,No,Charlotte Flair
+352,WWE SmackDown,1/6/2020,Ladder Match,Bobby Lashley,Asuka,89.8,80.2,1,3,1,No,Bobby Lashley
+353,WWE Crown Jewel,3/19/2021,Ladder Match,Bianca Belair,Nia Jax,39.6,79.1,5,2,0,No,Bianca Belair
+354,NXT TakeOver,2/12/2025,Fatal 4-Way,Charlotte Flair,Alexa Bliss,79.6,82.1,4,1,1,No,Charlotte Flair
+355,WWE Survivor Series,1/25/2025,Tag Team,Dakota Kai,Randy Orton,44.3,30.7,5,2,1,Yes,Randy Orton
+356,WWE Survivor Series,2/21/2025,Singles,Finn Balor,Io Shirai,40.7,44.2,5,4,0,Yes,Finn Balor
+357,WWE WrestleMania,12/7/2017,Steel Cage,Solo Sikoa,Bobby Lashley,31.2,61.6,2,4,1,Yes,Bobby Lashley
+358,NXT TakeOver,7/15/2020,Fatal 4-Way,Io Shirai,Jey Uso,38.4,31.5,1,4,0,Yes,Jey Uso
+359,WWE Backlash,9/2/2019,Triple Threat,Bianca Belair,Kevin Owens,72.8,52.2,3,1,0,Yes,Bianca Belair
+360,WWE Clash at the Castle,8/2/2022,Triple Threat,Randy Orton,Bianca Belair,74.8,46.6,5,2,0,Yes,Randy Orton
+361,WWE Hell in a Cell,9/12/2023,Ladder Match,Bayley,Bianca Belair,34.2,43.2,1,0,0,No,Bayley
+362,NXT TakeOver,3/25/2024,Ladder Match,Bianca Belair,Edge,37.3,33.7,4,5,0,Yes,Edge
+363,WWE Extreme Rules,7/11/2022,Tag Team,Natalya,Nia Jax,41.2,75.9,3,5,0,Yes,Nia Jax
+364,WWE Survivor Series,5/24/2023,Steel Cage,Brock Lesnar,Solo Sikoa,37.7,35.8,5,2,0,No,Solo Sikoa
+365,WWE Clash at the Castle,4/12/2024,Fatal 4-Way,Kevin Owens,Gunther,88.9,49.3,3,3,1,No,Kevin Owens
+366,WWE Survivor Series,12/27/2020,Ladder Match,Edge,Cody Rhodes,51.9,56.3,1,0,1,Yes,Cody Rhodes
+367,WWE SmackDown,2/26/2018,Tag Team,Io Shirai,Alexa Bliss,83.5,57.2,2,2,0,No,Alexa Bliss
+368,WWE Elimination Chamber,8/4/2018,Ladder Match,Gunther,Bianca Belair,32.7,84,4,5,0,Yes,Bianca Belair
+369,WWE Fastlane,1/24/2015,Steel Cage,Asuka,Becky Lynch,51.1,65.2,4,4,1,Yes,Becky Lynch
+370,WWE Survivor Series,4/5/2015,Steel Cage,Roman Reigns,Seth Rollins,71.6,64.4,1,2,1,No,Roman Reigns
+371,WWE Extreme Rules,5/21/2020,Triple Threat,Liv Morgan,Rey Mysterio,40.2,62.2,4,4,1,No,Rey Mysterio
+372,WWE Raw,4/24/2017,Steel Cage,Solo Sikoa,Rey Mysterio,42.6,60.2,0,0,0,Yes,Solo Sikoa
+373,WWE Payback,6/25/2017,Singles,Asuka,Drew McIntyre,77.6,68.4,0,0,1,Yes,Drew McIntyre
+374,WWE Payback,7/1/2018,Ladder Match,Dakota Kai,Charlotte Flair,75.8,55.3,0,1,0,Yes,Charlotte Flair
+375,WWE Survivor Series,12/28/2018,Fatal 4-Way,Jimmy Uso,Liv Morgan,31.9,32.1,0,4,1,Yes,Jimmy Uso
+376,WWE TLC,5/18/2016,Fatal 4-Way,Edge,Carmella,84.8,80,4,0,1,Yes,Edge
+377,NXT TakeOver,10/11/2022,Fatal 4-Way,Brock Lesnar,Rhea Ripley,40.5,63.4,1,2,1,Yes,Rhea Ripley
+378,WWE Hell in a Cell,7/5/2021,Steel Cage,Carmella,Seth Rollins,54.1,39.7,5,1,0,No,Carmella
+379,WWE Survivor Series,1/4/2019,Triple Threat,Dakota Kai,Carmella,36.2,53.8,1,2,1,Yes,Dakota Kai
+380,WWE Payback,11/20/2023,Steel Cage,Naomi,Edge,71.2,51,0,1,1,No,Edge
+381,WWE Fastlane,10/22/2019,Ladder Match,Carmella,Io Shirai,56.9,79.8,1,3,1,No,Io Shirai
+382,WWE Extreme Rules,3/26/2019,Steel Cage,Liv Morgan,Jey Uso,51.1,58.2,5,5,1,No,Liv Morgan
+383,WWE Fastlane,10/31/2021,Tag Team,Edge,Rhea Ripley,31.5,46.6,4,2,0,Yes,Edge
+384,WWE Elimination Chamber,8/3/2025,Singles,Kevin Owens,Dakota Kai,61.8,58.5,3,5,0,No,Dakota Kai
+385,WWE Royal Rumble,1/22/2020,Tag Team,Bobby Lashley,Solo Sikoa,30.3,36.7,0,5,1,Yes,Bobby Lashley
+386,WWE Crown Jewel,3/19/2016,Triple Threat,Drew McIntyre,Rhea Ripley,31.6,80.1,1,5,1,No,Rhea Ripley
+387,WWE Hell in a Cell,12/27/2023,Ladder Match,Bobby Lashley,Rhea Ripley,60,78.8,3,3,0,No,Rhea Ripley
+388,WWE Royal Rumble,4/26/2022,Triple Threat,Alexa Bliss,Io Shirai,60.8,87.8,2,0,1,No,Alexa Bliss
+389,WWE Money in the Bank,2/2/2025,Triple Threat,Rhea Ripley,Bobby Lashley,78.5,88.8,5,3,1,No,Bobby Lashley
+390,WWE Fastlane,1/18/2020,Fatal 4-Way,Rhea Ripley,Edge,45.1,64.7,5,4,0,No,Rhea Ripley
+391,WWE Money in the Bank,9/20/2025,Steel Cage,AJ Styles,Solo Sikoa,80.4,55,3,0,0,No,Solo Sikoa
+392,WWE Crown Jewel,1/8/2020,Fatal 4-Way,Rey Mysterio,Bayley,55.5,33.4,5,4,0,Yes,Bayley
+393,WWE Elimination Chamber,6/27/2018,Steel Cage,Sami Zayn,Bianca Belair,34.5,41.3,4,1,1,Yes,Sami Zayn
+394,WWE Fastlane,7/24/2019,Ladder Match,Cody Rhodes,Kevin Owens,86.9,76,5,1,0,No,Cody Rhodes
+395,WWE Extreme Rules,3/26/2023,Steel Cage,Shinsuke Nakamura,Gunther,62.2,64.5,4,5,0,Yes,Gunther
+396,WWE Survivor Series,6/3/2023,Steel Cage,Rey Mysterio,Jey Uso,86.1,75.8,3,3,1,No,Rey Mysterio
+397,WWE Survivor Series,1/10/2023,Tag Team,Seth Rollins,Shinsuke Nakamura,83.2,60.5,0,2,1,Yes,Shinsuke Nakamura
+398,WWE Fastlane,11/29/2021,Singles,Roman Reigns,Shinsuke Nakamura,79.5,53.6,2,1,0,Yes,Shinsuke Nakamura
+399,WWE Crown Jewel,8/19/2016,Ladder Match,Drew McIntyre,Shinsuke Nakamura,56.1,30.2,0,0,1,No,Shinsuke Nakamura
+400,WWE Money in the Bank,5/6/2019,Tag Team,AJ Styles,Alexa Bliss,83,32.4,3,0,1,No,AJ Styles
+401,WWE SummerSlam,1/26/2015,Fatal 4-Way,Sami Zayn,Cody Rhodes,52,60.7,2,0,0,No,Sami Zayn
+402,WWE Survivor Series,1/28/2022,Tag Team,Brock Lesnar,Finn Balor,74.7,34.9,2,5,0,Yes,Brock Lesnar
+403,WWE Backlash,2/5/2022,Ladder Match,Carmella,Naomi,86.8,48.1,5,5,0,Yes,Naomi
+404,NXT TakeOver,12/17/2016,Steel Cage,Dakota Kai,Toni Storm,65.9,33,0,4,1,No,Toni Storm
+405,WWE Royal Rumble,6/22/2020,Triple Threat,Kevin Owens,Alexa Bliss,40.5,51.8,0,0,0,Yes,Kevin Owens
+406,WWE Backlash,10/28/2015,Tag Team,Kevin Owens,Drew McIntyre,87.6,32.4,2,4,0,Yes,Drew McIntyre
+407,WWE Payback,1/19/2021,Singles,Dakota Kai,Roman Reigns,36.5,55.3,0,5,1,No,Dakota Kai
+408,NXT TakeOver,7/13/2025,Fatal 4-Way,AJ Styles,Finn Balor,81.9,63.8,5,0,1,Yes,Finn Balor
+409,WWE Crown Jewel,6/12/2016,Ladder Match,Seth Rollins,Finn Balor,69.9,35,3,5,0,Yes,Finn Balor
+410,WWE Clash at the Castle,5/10/2015,Fatal 4-Way,Gunther,Shinsuke Nakamura,39.2,70,3,2,0,Yes,Gunther
+411,WWE SummerSlam,4/29/2024,Fatal 4-Way,Cody Rhodes,Roman Reigns,55.9,47.2,5,0,1,No,Cody Rhodes
+412,WWE TLC,3/26/2017,Ladder Match,Gunther,AJ Styles,40.9,47.2,5,5,1,Yes,Gunther
+413,WWE TLC,3/9/2021,Steel Cage,Bobby Lashley,Toni Storm,40.1,78.2,4,1,0,No,Bobby Lashley
+414,WWE SmackDown,5/9/2015,Fatal 4-Way,Rey Mysterio,Bobby Lashley,53.1,34.1,5,4,0,No,Bobby Lashley
+415,WWE Crown Jewel,7/31/2019,Ladder Match,Kevin Owens,Alexa Bliss,80.2,54.7,0,3,0,No,Alexa Bliss
+416,WWE Crown Jewel,4/20/2020,Fatal 4-Way,Gunther,Bobby Lashley,47,78.4,5,1,1,No,Bobby Lashley
+417,WWE Hell in a Cell,7/31/2019,Tag Team,Sami Zayn,Liv Morgan,57.5,86.9,5,4,1,Yes,Sami Zayn
+418,WWE Hell in a Cell,5/28/2021,Tag Team,Rey Mysterio,Shinsuke Nakamura,81.5,60.5,5,1,0,Yes,Shinsuke Nakamura
+419,WWE Hell in a Cell,3/2/2017,Tag Team,Charlotte Flair,Bobby Lashley,40.4,54.9,0,3,0,Yes,Charlotte Flair
+420,NXT TakeOver,11/26/2018,Singles,Rhea Ripley,Drew McIntyre,47.7,75.9,1,2,1,Yes,Rhea Ripley
+421,WWE WrestleMania,2/28/2016,Fatal 4-Way,Rhea Ripley,Becky Lynch,37.9,37.9,0,0,0,No,Becky Lynch
+422,WWE Hell in a Cell,2/27/2025,Ladder Match,Charlotte Flair,Io Shirai,33.7,40,3,2,0,Yes,Io Shirai
+423,WWE Extreme Rules,2/1/2019,Fatal 4-Way,Jimmy Uso,Nia Jax,59,36.4,3,1,1,Yes,Jimmy Uso
+424,WWE WrestleMania,11/20/2017,Tag Team,Gunther,AJ Styles,71.2,63.3,3,5,1,Yes,AJ Styles
+425,WWE SmackDown,10/4/2016,Ladder Match,Sami Zayn,Charlotte Flair,87.9,49.9,4,5,0,No,Sami Zayn
+426,WWE SmackDown,12/2/2025,Singles,Nia Jax,Dakota Kai,43.7,76.9,0,4,1,Yes,Nia Jax
+427,WWE Elimination Chamber,12/2/2019,Ladder Match,Finn Balor,Io Shirai,77.3,83.1,4,1,1,No,Finn Balor
+428,WWE SmackDown,1/13/2023,Singles,Naomi,Dakota Kai,64.6,76.9,0,5,1,Yes,Dakota Kai
+429,WWE Crown Jewel,8/10/2023,Fatal 4-Way,Asuka,Seth Rollins,55.5,71.2,1,2,1,No,Asuka
+430,WWE TLC,1/30/2020,Tag Team,Charlotte Flair,Bianca Belair,44,47.8,5,1,1,No,Charlotte Flair
+431,WWE Clash at the Castle,7/8/2024,Triple Threat,Nia Jax,Natalya,48,62.8,3,4,0,No,Natalya
+432,WWE Clash at the Castle,10/10/2015,Triple Threat,Dakota Kai,Io Shirai,51.4,40.8,5,1,1,Yes,Dakota Kai
+433,WWE Payback,7/2/2024,Steel Cage,Charlotte Flair,Roman Reigns,75.3,35.1,2,0,1,Yes,Charlotte Flair
+434,WWE Clash at the Castle,5/9/2020,Fatal 4-Way,Sheamus,Kevin Owens,50.5,73.1,0,1,0,No,Sheamus
+435,WWE Elimination Chamber,1/3/2022,Tag Team,Rhea Ripley,Carmella,44,62.5,2,5,1,Yes,Carmella
+436,WWE Hell in a Cell,8/15/2016,Fatal 4-Way,Roman Reigns,Kevin Owens,78.6,64.7,5,5,1,No,Roman Reigns
+437,WWE Backlash,6/7/2017,Tag Team,Drew McIntyre,Toni Storm,65.4,59,0,3,0,Yes,Drew McIntyre
+438,WWE SmackDown,12/29/2024,Singles,Io Shirai,Alexa Bliss,46.8,65.8,4,2,0,No,Io Shirai
+439,WWE Royal Rumble,3/9/2019,Ladder Match,Gunther,Edge,69.7,56.9,5,4,1,Yes,Gunther
+440,WWE Hell in a Cell,5/31/2015,Triple Threat,Solo Sikoa,Toni Storm,75,53.2,4,3,0,Yes,Toni Storm
+441,WWE Survivor Series,3/16/2021,Singles,Carmella,Braun Strowman,55.5,56.8,3,5,1,Yes,Braun Strowman
+442,WWE SummerSlam,4/3/2017,Singles,Edge,Liv Morgan,52.9,59.2,3,0,1,No,Edge
+443,WWE Survivor Series,9/13/2023,Steel Cage,Alexa Bliss,Shinsuke Nakamura,67.1,70.9,5,4,1,Yes,Alexa Bliss
+444,WWE Extreme Rules,6/2/2016,Ladder Match,Rey Mysterio,Bayley,65.8,33.3,3,5,1,No,Bayley
+445,WWE Payback,10/30/2016,Steel Cage,Gunther,Bobby Lashley,35.6,86.2,2,5,0,No,Gunther
+446,WWE Royal Rumble,6/20/2022,Singles,Liv Morgan,Asuka,32.1,72.5,3,1,1,Yes,Asuka
+447,WWE SummerSlam,11/25/2025,Ladder Match,Gunther,Kevin Owens,70.6,61.1,3,5,1,Yes,Gunther
+448,WWE Extreme Rules,12/3/2021,Fatal 4-Way,Gunther,Finn Balor,39,33.5,0,2,1,No,Finn Balor
+449,WWE SmackDown,11/23/2017,Singles,Kevin Owens,Roman Reigns,46.2,47.4,4,3,1,Yes,Kevin Owens
+450,NXT TakeOver,6/22/2025,Triple Threat,Kevin Owens,Toni Storm,47.1,57.5,4,1,0,No,Toni Storm
+451,WWE Survivor Series,2/21/2021,Tag Team,Alexa Bliss,Finn Balor,51.2,34.3,1,0,1,No,Finn Balor
+452,WWE Royal Rumble,11/9/2021,Ladder Match,Jimmy Uso,Rey Mysterio,72.9,48,1,3,1,No,Rey Mysterio
+453,WWE Hell in a Cell,11/22/2016,Steel Cage,Braun Strowman,Io Shirai,42.6,88.2,5,3,1,No,Braun Strowman
+454,WWE SummerSlam,1/16/2016,Tag Team,Seth Rollins,Braun Strowman,77.5,80.6,1,1,1,Yes,Braun Strowman
+455,WWE Hell in a Cell,12/7/2022,Triple Threat,Braun Strowman,Sami Zayn,70.8,88.2,3,2,1,No,Sami Zayn
+456,WWE Clash at the Castle,5/7/2016,Steel Cage,Toni Storm,Gunther,73.6,37.4,0,4,1,No,Toni Storm
+457,WWE Money in the Bank,4/21/2018,Singles,Kevin Owens,Alexa Bliss,50.6,68.8,4,5,1,Yes,Kevin Owens
+458,WWE Elimination Chamber,2/23/2016,Fatal 4-Way,Cody Rhodes,Io Shirai,55.5,86.2,3,0,1,No,Io Shirai
+459,WWE Backlash,9/11/2017,Triple Threat,Sami Zayn,Roman Reigns,87.6,46.1,3,3,1,No,Sami Zayn
+460,WWE WrestleMania,10/11/2023,Fatal 4-Way,Sami Zayn,Bayley,68.7,45.7,4,0,0,No,Sami Zayn
+461,WWE Royal Rumble,12/31/2021,Singles,Brock Lesnar,Roman Reigns,72.7,68.7,5,0,1,Yes,Brock Lesnar
+462,WWE Royal Rumble,11/25/2017,Triple Threat,Rey Mysterio,Solo Sikoa,40.4,81.4,2,2,0,Yes,Rey Mysterio
+463,WWE Fastlane,6/24/2023,Triple Threat,Nia Jax,AJ Styles,35.5,83.6,0,2,1,No,AJ Styles
+464,WWE Crown Jewel,8/7/2024,Triple Threat,Cody Rhodes,Braun Strowman,82.7,39.9,4,5,0,Yes,Braun Strowman
+465,WWE Crown Jewel,6/6/2021,Ladder Match,Bianca Belair,Bobby Lashley,73,52.8,1,5,1,Yes,Bianca Belair
+466,WWE Money in the Bank,8/20/2019,Ladder Match,Jey Uso,Liv Morgan,62.1,85.5,2,1,1,Yes,Liv Morgan
+467,WWE Hell in a Cell,1/15/2023,Ladder Match,Shinsuke Nakamura,Liv Morgan,68.6,50.6,1,0,1,No,Shinsuke Nakamura
+468,WWE Elimination Chamber,12/28/2019,Tag Team,Natalya,Seth Rollins,32.5,86,2,0,0,Yes,Seth Rollins
+469,WWE SummerSlam,12/27/2016,Ladder Match,Asuka,Liv Morgan,65.3,89.6,4,5,0,Yes,Liv Morgan
+470,NXT TakeOver,10/11/2019,Steel Cage,Rey Mysterio,Cody Rhodes,45,64.2,0,2,1,No,Rey Mysterio
+471,WWE Raw,5/22/2016,Fatal 4-Way,AJ Styles,Kevin Owens,57.4,79.3,3,2,0,No,Kevin Owens
+472,WWE Clash at the Castle,8/10/2019,Triple Threat,Naomi,Seth Rollins,36.3,76.9,3,3,0,Yes,Seth Rollins
+473,WWE Royal Rumble,4/23/2024,Tag Team,Toni Storm,Nia Jax,87.9,66.2,3,3,1,No,Toni Storm
+474,WWE Payback,6/7/2021,Ladder Match,Io Shirai,Charlotte Flair,34.2,89.3,4,1,0,No,Charlotte Flair
+475,WWE Extreme Rules,4/14/2016,Steel Cage,Asuka,Drew McIntyre,61,84,1,2,1,Yes,Asuka
+476,WWE Hell in a Cell,2/28/2018,Triple Threat,Roman Reigns,AJ Styles,60.5,71.8,0,5,1,Yes,AJ Styles
+477,WWE Hell in a Cell,9/30/2024,Fatal 4-Way,Becky Lynch,Naomi,65.1,87,2,5,0,Yes,Naomi
+478,WWE Hell in a Cell,7/23/2022,Singles,Randy Orton,Kevin Owens,42.4,39.6,0,1,0,No,Kevin Owens
+479,WWE Royal Rumble,8/15/2019,Fatal 4-Way,Becky Lynch,Kevin Owens,74.1,72.9,1,1,1,Yes,Kevin Owens
+480,WWE Elimination Chamber,11/22/2016,Triple Threat,Dakota Kai,Braun Strowman,80,88.6,2,5,1,Yes,Braun Strowman
+481,WWE WrestleMania,5/1/2017,Triple Threat,Jey Uso,Bobby Lashley,82.4,83,1,0,0,Yes,Bobby Lashley
+482,WWE Backlash,4/22/2023,Ladder Match,Io Shirai,Toni Storm,57,49.3,3,0,1,Yes,Io Shirai
+483,WWE Elimination Chamber,10/20/2019,Steel Cage,Randy Orton,Drew McIntyre,81.3,65,3,3,1,No,Drew McIntyre
+484,WWE WrestleMania,4/8/2021,Ladder Match,Roman Reigns,Asuka,80.3,72.3,0,5,0,No,Asuka
+485,WWE Royal Rumble,3/20/2025,Fatal 4-Way,Solo Sikoa,Jimmy Uso,76.8,36,4,0,1,No,Jimmy Uso
+486,WWE Extreme Rules,11/23/2023,Ladder Match,Brock Lesnar,Charlotte Flair,33.2,51.1,4,3,0,No,Charlotte Flair
+487,WWE Raw,10/29/2015,Triple Threat,Bayley,Gunther,43.2,30.6,4,0,0,No,Bayley
+488,WWE Money in the Bank,11/1/2025,Steel Cage,Solo Sikoa,Gunther,79.3,36.3,1,0,0,No,Gunther
+489,WWE Royal Rumble,2/15/2025,Triple Threat,Naomi,Io Shirai,63.4,77.1,1,4,0,Yes,Io Shirai
+490,WWE Elimination Chamber,10/29/2017,Triple Threat,Alexa Bliss,Bobby Lashley,72.3,77.9,0,4,1,No,Alexa Bliss
+491,WWE Survivor Series,12/19/2021,Ladder Match,Drew McIntyre,Shinsuke Nakamura,83.3,83.8,1,3,1,No,Shinsuke Nakamura
+492,WWE Payback,7/6/2016,Triple Threat,Randy Orton,Solo Sikoa,34.5,71.6,2,3,0,No,Solo Sikoa
+493,WWE Backlash,6/15/2017,Tag Team,Rhea Ripley,Nia Jax,47.8,39.6,0,2,1,Yes,Rhea Ripley
+494,WWE Survivor Series,11/24/2025,Fatal 4-Way,Edge,Io Shirai,59.9,79.9,4,1,1,No,Edge
+495,WWE Payback,9/23/2024,Singles,Bobby Lashley,Toni Storm,59.9,38.8,1,4,0,No,Toni Storm
+496,WWE Payback,7/10/2022,Tag Team,Drew McIntyre,Io Shirai,81.7,83.8,0,0,1,No,Drew McIntyre
+497,WWE Fastlane,10/31/2024,Tag Team,Randy Orton,Bayley,62.4,69.6,2,1,0,No,Bayley
+498,WWE Payback,2/21/2016,Triple Threat,Seth Rollins,Shinsuke Nakamura,78.8,79.7,1,3,1,Yes,Seth Rollins
+499,WWE Elimination Chamber,1/21/2023,Singles,Rey Mysterio,Jey Uso,87.1,63.5,3,0,1,No,Jey Uso
+500,WWE Payback,8/12/2021,Triple Threat,Solo Sikoa,Natalya,72.5,75.6,3,5,0,Yes,Natalya
