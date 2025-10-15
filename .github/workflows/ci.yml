@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -44,7 +44,6 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Lint code
-        # replace with your lint command (flake8/ruff/etc)
         run: |
           if command -v flake8 >/dev/null 2>&1; then
             flake8 || true
@@ -64,7 +63,6 @@ jobs:
         run: |
           if [ -f dvc.yaml ]; then
             echo "DVC project detected"
-            # basic check: ensure dvc is available
             pip install dvc[s3] || true
             dvc status || true
           else
@@ -76,10 +74,6 @@ jobs:
         run: |
           TAG=latest
           echo "tag=$TAG" >> $GITHUB_OUTPUT
-
-      - name: Post Set up Python
-        if: always()
-        run: echo "Post steps for python setup done"
 
       - name: Complete job
         run: echo "Test job finished"
@@ -96,31 +90,28 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up QEMU (for multi-arch builds)
-        uses: docker/setup-qemu-action@v2
+        uses: docker/setup-qemu-action@v3
 
       - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
+        uses: docker/setup-buildx-action@v3
 
       - name: Login to GitHub Container Registry (GHCR)
-        uses: docker/login-action@v2
+        uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build and push Docker image to GHCR
-        uses: docker/build-push-action@v4
+            - name: Build and push Docker image to GHCR
+        uses: docker/build-push-action@v5
         with:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/${{ github.event.repository.name }}:latest
-            ghcr.io/${{ github.repository_owner }}/${{ github.event.repository.name }}:${{ github.sha }}
+            ghcr.io/shaileshjb37/dvc_wwe:latest
+            ghcr.io/shaileshjb37/dvc_wwe:${{ github.sha }}
           platforms: linux/amd64,linux/arm64
 
-      - name: Post Login to GHCR
-        if: always()
-        run: echo "Post login step"
 
       - name: Complete job
         run: echo "Docker build & push finished"
