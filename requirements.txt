@@ -1,9 +1,8 @@
-fastapi
-uvicorn
-pandas
-scikit-learn
-joblib
-pytest
-httpx
-flake8
-dvc
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+shap>=0.41.0
+scipy>=1.7.0
+joblib>=1.2.0
